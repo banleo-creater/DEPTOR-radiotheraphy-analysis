@@ -1,0 +1,98 @@
+,tissue type,tumor stage,age,Sex,vital,fu time,treatment,os_t,os_e
+GSM1020099,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,F,Alive,62.85,uni-modality,62.85,0
+GSM1020100,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Dead-oral ca,55.66,uni-modality,55.66,1
+GSM1020101,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-oral ca,6.54,multii-modality,6.54,1
+GSM1020102,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-non OC,3.38,multii-modality,3.38,1
+GSM1020103,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,M,Dead-oral ca,28.62,uni-modality,28.62,1
+GSM1020104,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,F,Alive,85.03,multii-modality,85.03,0
+GSM1020105,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-oral ca,40.71,multii-modality,40.71,1
+GSM1020106,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,84.24,uni-modality,84.24,0
+GSM1020107,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-oral ca,46.88,multii-modality,46.88,1
+GSM1020108,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Alive,82.92,multii-modality,82.92,0
+GSM1020109,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,14.16,multii-modality,14.16,1
+GSM1020110,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Dead-oral ca,10.05,multii-modality,10.05,1
+GSM1020111,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-non OC,28.52,uni-modality,28.52,1
+GSM1020112,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,81.51,uni-modality,81.51,0
+GSM1020113,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-oral ca,7.16,multii-modality,7.16,1
+GSM1020114,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Dead-oral ca,7.23,uni-modality,7.23,1
+GSM1020115,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-non OC,66.63,multii-modality,66.63,1
+GSM1020116,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Dead -unk cause,78.29,multii-modality,78.29,1
+GSM1020117,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead -unk cause,9.92,uni-modality,9.92,1
+GSM1020118,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,F,Dead-oral ca,15.31,uni-modality,15.31,1
+GSM1020119,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Alive,80.16,multii-modality,80.16,0
+GSM1020120,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,M,Alive,80.79,uni-modality,80.79,0
+GSM1020121,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,F,Dead-oral ca,15.41,multii-modality,15.41,1
+GSM1020122,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,F,Dead-non OC,18.40,multii-modality,18.4,1
+GSM1020123,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Dead-oral ca,21.78,uni-modality,21.78,1
+GSM1020124,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-oral ca,24.25,multii-modality,24.25,1
+GSM1020125,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,19-39,F,Dead-oral ca,5.85,multii-modality,5.85,1
+GSM1020126,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Dead -unk cause,35.45,uni-modality,35.45,1
+GSM1020127,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,78.95,multii-modality,78.95,0
+GSM1020128,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,F,Dead-non OC,41.17,uni-modality,41.17,1
+GSM1020129,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead -unk cause,76.75,multii-modality,76.75,1
+GSM1020130,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,3.52,unknown,3.52,1
+GSM1020131,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-oral ca,24.87,multii-modality,24.87,1
+GSM1020132,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-oral ca,20.11,multii-modality,20.11,1
+GSM1020133,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,76.85,multii-modality,76.85,0
+GSM1020134,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,M,Dead-oral ca,29.14,multii-modality,29.14,1
+GSM1020135,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,F,Dead-non OC,26.81,multii-modality,26.81,1
+GSM1020136,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,75.07,uni-modality,75.07,0
+GSM1020137,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-non OC,43.24,multii-modality,43.24,1
+GSM1020138,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,F,Alive,74.64,uni-modality,74.64,0
+GSM1020139,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,19-39,M,Dead-oral ca,14.75,multii-modality,14.75,1
+GSM1020140,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,73.17,uni-modality,73.17,0
+GSM1020141,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,72.28,multii-modality,72.28,0
+GSM1020142,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Alive,73.26,multii-modality,73.26,0
+GSM1020143,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Dead -unk cause,64.99,uni-modality,64.99,1
+GSM1020144,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Alive,68.47,multii-modality,68.47,0
+GSM1020145,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,12.29,multii-modality,12.29,1
+GSM1020146,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-oral ca,6.44,multii-modality,6.44,1
+GSM1020147,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,F,Alive,69.16,uni-modality,69.16,0
+GSM1020148,HPV-negative oral squamous cell carcinoma (OSCC),I/II,19-39,F,Alive,70.08,uni-modality,70.08,0
+GSM1020149,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,F,Alive,70.08,multii-modality,70.08,0
+GSM1020150,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,68.14,multii-modality,68.14,0
+GSM1020151,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,67.94,uni-modality,67.94,0
+GSM1020152,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Dead-non OC,19.65,uni-modality,19.65,1
+GSM1020153,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,19-39,M,Alive,67.55,multii-modality,67.55,0
+GSM1020154,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Alive,66.60,multii-modality,66.6,0
+GSM1020155,HPV-negative oral squamous cell carcinoma (OSCC),I/II,19-39,M,Alive,66.56,uni-modality,66.56,0
+GSM1020156,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,65.22,uni-modality,65.22,0
+GSM1020157,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,2.40,uni-modality,2.4,1
+GSM1020158,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-oral ca,10.68,multii-modality,10.68,1
+GSM1020159,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,F,Alive,65.45,multii-modality,65.45,0
+GSM1020160,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,63.54,uni-modality,63.54,0
+GSM1020161,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Alive,63.38,uni-modality,63.38,0
+GSM1020162,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-oral ca,35.12,multii-modality,35.12,1
+GSM1020163,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,60.55,uni-modality,60.55,0
+GSM1020164,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,61.54,multii-modality,61.54,0
+GSM1020165,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,19.12,uni-modality,19.12,1
+GSM1020166,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,61.73,uni-modality,61.73,0
+GSM1020167,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,F,Dead -unk cause,51.61,multii-modality,51.61,1
+GSM1020168,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Alive,61.08,multii-modality,61.08,0
+GSM1020169,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Alive,59.47,multii-modality,59.47,0
+GSM1020170,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,61.01,uni-modality,61.01,0
+GSM1020171,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Alive,60.65,multii-modality,60.65,0
+GSM1020172,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,59.96,multii-modality,59.96,0
+GSM1020173,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Dead-oral ca,9.86,uni-modality,9.86,1
+GSM1020174,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Dead-oral ca,9.23,multii-modality,9.23,1
+GSM1020175,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Alive,59.24,uni-modality,59.24,0
+GSM1020176,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,6.90,multii-modality,6.9,1
+GSM1020177,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,58.71,uni-modality,58.71,0
+GSM1020178,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,F,Dead-non OC,1.22,uni-modality,1.22,1
+GSM1020179,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,62.85,uni-modality,62.85,0
+GSM1020180,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,40-49,M,Alive,57.63,multii-modality,57.63,0
+GSM1020181,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-non OC,45.93,multii-modality,45.93,1
+GSM1020182,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead-non OC,17.02,multii-modality,17.02,1
+GSM1020183,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Dead-non OC,35.38,uni-modality,35.38,1
+GSM1020184,HPV-negative oral squamous cell carcinoma (OSCC),I/II,50-59,M,Dead-non OC,14.42,multii-modality,14.42,1
+GSM1020185,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-oral ca,6.54,multii-modality,6.54,1
+GSM1020186,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,M,Alive,57.53,uni-modality,57.53,0
+GSM1020187,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,60-88,M,Dead-non OC,0.46,uni-modality,0.46,1
+GSM1020188,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,56.02,multii-modality,56.02,0
+GSM1020189,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,55.10,uni-modality,55.1,0
+GSM1020190,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,50-59,M,Dead -unk cause,20.01,multii-modality,20.01,1
+GSM1020191,HPV-negative oral squamous cell carcinoma (OSCC),III/IV,19-39,F,Dead-oral ca,8.38,multii-modality,8.38,1
+GSM1020192,HPV-negative oral squamous cell carcinoma (OSCC),I/II,40-49,M,Alive,54.57,uni-modality,54.57,0
+GSM1020193,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,54.41,uni-modality,54.41,0
+GSM1020194,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,F,Alive,53.88,uni-modality,53.88,0
+GSM1020195,HPV-negative oral squamous cell carcinoma (OSCC),I/II,60-88,M,Alive,52.60,uni-modality,52.6,0

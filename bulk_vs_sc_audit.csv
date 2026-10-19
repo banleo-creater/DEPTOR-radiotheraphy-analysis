@@ -1,0 +1,26 @@
+part,test,n,estimate,p,note
+E0,"corr(expr_myeloid proxy, expr_tumour proxy)",515,0.9999999999999999,,1.000 => the three proxies are the SAME variable
+E0,SD of ratio expr_myeloid/expr_tumour,515,1.1429501521135015e-16,,0 => separated only by a constant
+E0,SD of EPIC-empirical beta_Tumor,515,5.689868714694168e-14,,0 => compartment weight is a CONSTANT
+E0,SD of EPIC-empirical beta_Immune,515,0.0,,0 => constant
+E0,R2 of log(DEPTOR) ~ all compartment proportions,515,0.13350921558709516,,measured DEPTOR is NOT composition-only
+E1,DEPTOR vs NK fraction of ALL cells,515,0.07324935668959362,0.09681704125030575,published null
+E1,DEPTOR vs NK fraction of IMMUNE cells,515,-0.004197221531592713,0.9242996679822175,scRNA denominator
+E1,DEPTOR vs EPIC NKcells,515,0.07393737963623101,0.09371394819205632,
+E1,DEPTOR vs quanTIseq NK.cells,515,0.11563527870419142,0.00862370754863655,
+E1,CD45 vs custom prop_Immune,515,0.8241000023720563,9.99898218327663e-129,
+E1,CD45 vs EPIC immune sum,515,-0.14161218990857044,0.0012723898865193955,
+E1,KRT5/14 vs custom prop_Malignant,515,0.16271370085181874,0.0002086302844974749,
+E1,KRT5/14 vs EPIC CAFs,515,-0.012641346547795035,0.7747309494779674,
+E2,covariance share: tumour,515,0.025207491423088927,,38% of observed r
+E2,covariance share: myeloid,515,0.014092415624197724,,21% of observed r
+E2,covariance share: non-myeloid immune,515,0.011585588062696729,,17% of observed r
+E2,covariance share: stroma/endothelial,515,0.015889078566941512,,24% of observed r
+E2,SUM of shares,515,0.0667745736769249,,= observed r
+E2,observed Pearson r,515,0.06677457367692492,0.1301873506974703,
+E4,NK concordance: custom prop_NK vs EPIC NKcells,515,0.28538537399424063,4.1561857831452873e-11,
+E4,NK concordance: custom prop_NK vs quanTIseq NK.cells,515,0.10584334295282648,0.016266340053596857,
+E4,NK concordance: EPIC NKcells vs quanTIseq NK.cells,515,0.004047356749714361,0.9269949291403571,
+E4,attenuation at reliability 0.004,515,-0.04326081091551476,,observed would be -0.043
+E4,attenuation at reliability 0.106,515,-0.22122830239683838,,observed would be -0.221
+E4,attenuation at reliability 0.285,515,-0.36326601401030745,,observed would be -0.363
