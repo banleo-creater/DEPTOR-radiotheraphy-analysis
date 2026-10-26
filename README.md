@@ -1,20 +1,17 @@
-# DEPTOR-radiotheraphy-analysis
-DEPTOR-radiotheraphy-analysis-HNSCC
-# DEPTOR-HNSCC:DEPTOR uncouples radiosensitivity from immune exclusion in head and neck squamous cell carcinoma
+# DEPTOR uncouples radiosensitivity from immune exclusion in head and neck squamous cell carcinoma
 
-Analysis code and derived tables for the manuscript:  
-*"DEPTOR marks separable dimensions of radiosensitivity and NK-cell exclusion in HNSCC"*  
-(Submitted to Clinical Cancer Research)
+Analysis code and derived tables for the manuscript:
+*"DEPTOR uncouples radiosensitivity from immune exclusion in head and neck squamous cell carcinoma"*
 
 ## Authors
 
-Xiaobo Wu<sup>1,3</sup>, Gongbiao Lin<sup>1,3</sup>, Zhihong Chen<sup>1,3</sup>, Guangnan Yao<sup>1,3</sup>, Hanqin Lin<sup>1,3</sup>, Shuping Tang<sup>1,3</sup>, Jizhen Wang<sup>2,3,*</sup>
+Xiaobo Wu<sup>1,3</sup>, Gongbiao Lin<sup>1,3</sup>, Hanqing Lin<sup>1,3</sup>, Guangnan Yao<sup>1,3</sup>, Shuping Tang<sup>1,3</sup>, Zhihong Chen<sup>1,3</sup>, Jizhen Wang<sup>2,3,*</sup>
 
-<sup>1</sup>Department of Hematology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China  
-<sup>2</sup>Department of Radiation Oncology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China  
-<sup>3</sup>Fujian Medical University, Fuzhou, China  
+<sup>1</sup>Department of Otorhinolaryngology – Head and Neck Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China
+<sup>2</sup>Department of Hematology, The First Affiliated Hospital of Fujian Medical University, Fuzhou, China
+<sup>3</sup>National Regional Medical Center, Binhai Campus of The First Affiliated Hospital, Fujian Medical University, Fuzhou, China
 
-*Corresponding author: Jizhen Wang (wangjizhen@fjmu.edu.cn)
+*Corresponding author: Jizhen Wang (banleo@fjmu.edu.cn)
 
 ## Data Sources
 
@@ -42,32 +39,31 @@ Raw data must be downloaded from the respective portals. This repository does **
 
 ## Requirements
 
-### Python (≥ 3.1)
-### ## Usage
+- **R** (≥ 4.2) — scripts `DEPTOR_HR_analysis.R`, `correlation_analysis.R`, and those in `figure_generation/`; required packages are listed in the header of each script.
+- **Python** (≥ 3.10) — script `spatial_enrichment.py`; dependencies are listed in the script header.
+
+## Usage
 
 1. Download primary data from TCGA/GEO (see Data Sources above).
 2. Update file paths in each script header to point to your local data directory.
-3. Run analysis scripts in order:
+3. Run the analysis scripts in the order given below.
+4. Derived tables will be written to `./output/`.
 
-4. Derived tables will be output to `./output/`.
+```r
+source("DEPTOR_HR_analysis.R")
+source("correlation_analysis.R")
+```
+
+```bash
+python spatial_enrichment.py
+```
 
 ## Derived Tables
 
-All derived tables supporting the findings of this study are provided in `derived_tables.xlsx` and archived at [Zenodo DOI:XXXXXXX].
+All derived tables supporting the findings of this study are provided in `derived_tables.xlsx` and archived at Zenodo: [https://doi.org/10.5281/zenodo.23476871](https://doi.org/10.5281/zenodo.23476871)
 
 ## License
 
 This repository is released under the [MIT License](LICENSE).
 
-## Citation
-
-If you use this code or derived data, please cite:
-
-> Wu X, Lin G, Chen Z, et al.DEPTOR uncouples radiosensitivity from immune exclusion in head and neck squamous cell carcinoma . **. 2026. **
-
-Preprint / bioRxiv version (if applicable):
-> [preprint link]
-
-## Acknowledgments
-
-We acknowledge the TCGA Research Network and the contributing investigators of the GEO datasets used in this study.
+![Uploading image.png…]()
